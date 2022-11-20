@@ -1,0 +1,28 @@
+.button{
+    display: inline-block;
+    background-color: cornflowerblue;
+    width: 20%;
+    height: 2rem;
+    color: white;
+    background-color: #36454F;
+    border: 0;
+    /* bottom: 20%; */
+    /* left: 40%; */
+    margin-left: 180px;
+    cursor: pointer;
+    font-size: 20px;
+    position:absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    white-space: normal;
+    word-wrap: break-word;
+    border-radius: 10px;
+}
+
+.formtab {
+    text-align: left;
+}
+
+.heading{
+    text-align: left;
+    left: 50%;
+}
